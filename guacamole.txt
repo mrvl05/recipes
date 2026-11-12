@@ -6,3 +6,4 @@
 * pepper
 ## Instructions
 peel avo and remove seed
+add more salt
