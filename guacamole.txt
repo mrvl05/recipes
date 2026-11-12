@@ -3,5 +3,6 @@
 * avocado
 * lemon
 * salt
+* pepper
 ## Instructions
 peel avo and remove seed
