@@ -5,6 +5,7 @@
 * salt
 * pepper
 * onion
+* lime
 ## Instructions
 peel avo and remove seed
 add more salt
